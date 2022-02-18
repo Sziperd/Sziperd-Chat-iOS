@@ -158,6 +158,7 @@ extension ChatViewController: UITableViewDataSource{
             cell.messageBubble.backgroundColor = UIColor.purple
             cell.label.textColor = UIColor.lightPurple
             cell.backgroundColor = UIColor.white
+          
         }
         
         
